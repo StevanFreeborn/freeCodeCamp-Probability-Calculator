@@ -4,6 +4,9 @@ from unittest import main
 
 hat = prob_calculator.Hat(blue=4, red=2, green=6)
 print(hat.contents)
+drawn_balls = hat.draw(14)
+print(drawn_balls)
+print(hat.contents)
 
 # prob_calculator.random.seed(95)
 # hat = prob_calculator.Hat(blue=4, red=2, green=6)
