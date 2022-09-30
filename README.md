@@ -1,3 +1,3 @@
-# Probability Calculator
+# freeCodeCamp-Probability-Calculator
 
-This is the boilerplate for the Probability Calculator project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/probability-calculator
+A probability calculator built as part of the freeCodeCamp Scientific Computing with Python Certification.
